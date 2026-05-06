@@ -1,5 +1,7 @@
-<!-- Header -->
-<h1 align="center">Alba Alonso</h1>
+<!-- Capsule Render header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=180&section=header&text=Alba%20Alonso&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=45" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -8,7 +10,7 @@
 </p>
 
 <p align="center">
-  📍 Vitoria-Gasteiz, España &nbsp;·&nbsp; 🎮 Buscando oportunidades en videojuegos · tools · sistemas · IA
+  📍 Vitoria-Gasteiz, España &nbsp;·&nbsp; 🎮 Game Tools · Procedural · AI behaviours · &nbsp; 🌐 Full-Stack .NET + Angular
 </p>
 
 <p align="center">
@@ -73,13 +75,11 @@ Me interesa especialmente la **IA aplicada a videojuegos**: comportamiento de ag
 
 ---
 
-<!-- Snake animation — requiere GitHub Action (ver instrucciones abajo) -->
-<!-- Una vez configurada la Action, descomenta estas líneas: -->
-<!-- ![snake](https://github.com/alba-alonso-dev/alba-alonso-dev/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
-<!-- ![snake](https://github.com/alba-alonso-dev/alba-alonso-dev/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+<!-- Snake animation -->
+![snake](https://github.com/alba-alonso-dev/alba-alonso-dev/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://github.com/alba-alonso-dev/alba-alonso-dev/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alba-alonso-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alba-alonso-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%" />
 </p>
+---
